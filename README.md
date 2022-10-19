@@ -5,7 +5,7 @@
 
 
 # Azure_Lab_Colloquium
-It is a repository for the course lab tutorial on 'INF-2220-1 21H Cloud and Big Data Technology' for Colloquium Group 3. 
+It is a repository for the course lab tutorial on 'INF-2220-1 22H Cloud and Big Data Technology' for Colloquium 9 (Group 1 & 2). 
 
 # Azure Batch Python Quickstart
 
@@ -16,7 +16,7 @@ For details and explanation, see the accompanying article [Run your first Batch 
 ## Prerequisites
 
 - Azure Batch account and linked general-purpose Azure Storage account
-- Python 2.7 or 3.3 or later including pip
+- Python 2.7 or 3.5 or later including pip
 
 ## Resources
 - [Azure Batch documentation](https://docs.microsoft.com/azure/batch/)
